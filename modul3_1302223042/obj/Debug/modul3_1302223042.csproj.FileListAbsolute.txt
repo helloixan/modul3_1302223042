@@ -1,0 +1,10 @@
+C:\Users\PRAKTIKAN\source\repos\modul3_1302223042\modul3_1302223042\bin\Debug\modul3_1302223042.exe.config
+C:\Users\PRAKTIKAN\source\repos\modul3_1302223042\modul3_1302223042\bin\Debug\modul3_1302223042.exe
+C:\Users\PRAKTIKAN\source\repos\modul3_1302223042\modul3_1302223042\bin\Debug\modul3_1302223042.pdb
+C:\Users\PRAKTIKAN\source\repos\modul3_1302223042\modul3_1302223042\obj\Debug\modul3_1302223042.csproj.AssemblyReference.cache
+C:\Users\PRAKTIKAN\source\repos\modul3_1302223042\modul3_1302223042\obj\Debug\modul3_1302223042.Form1.resources
+C:\Users\PRAKTIKAN\source\repos\modul3_1302223042\modul3_1302223042\obj\Debug\modul3_1302223042.Properties.Resources.resources
+C:\Users\PRAKTIKAN\source\repos\modul3_1302223042\modul3_1302223042\obj\Debug\modul3_1302223042.csproj.GenerateResource.cache
+C:\Users\PRAKTIKAN\source\repos\modul3_1302223042\modul3_1302223042\obj\Debug\modul3_1302223042.csproj.CoreCompileInputs.cache
+C:\Users\PRAKTIKAN\source\repos\modul3_1302223042\modul3_1302223042\obj\Debug\modul3_1302223042.exe
+C:\Users\PRAKTIKAN\source\repos\modul3_1302223042\modul3_1302223042\obj\Debug\modul3_1302223042.pdb
